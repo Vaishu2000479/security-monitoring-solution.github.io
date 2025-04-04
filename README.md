@@ -3,22 +3,22 @@
 
 ## Network Overview
 Your security assessment environment consists of four key machines, each with specific roles and IP addresses within the 192.168.113.0/24 subnet:
-### Gateway (192.168.113.1)
+### Gateway (192.168.113.1/24)
 Serves as the network gateway for all other machines
 Configured with dual network adapters:
 Bridge adapter: Provides direct access to the physical network
 NAT adapter: Enables internet access for all internal machines while maintaining isolation
 Acts as the central connection point, with confirmed connectivity to all three other machines
-### Ubuntu Desktop (192.168.113.2)
+### Ubuntu Desktop (192.168.113.2/24)
 Client machine for testing and monitoring
 Used for conducting security assessments and analysis
 Connected through the gateway for both internal and external access
-### OpenVAS (192.168.113.3)
+### OpenVAS (192.168.113.3/24)
 Vulnerability Assessment Scanner
 Provides automated security scanning capabilities
 Used to identify potential vulnerabilities in the network and systems
 Generates detailed reports of security issues found
-### Wazuh (192.168.113.5)
+### Wazuh (192.168.113.4/24)
 Security Information and Event Management (SIEM) platform
 Provides real-time monitoring and threat detection
 Handles log analysis and security event correlation
