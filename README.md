@@ -24,17 +24,17 @@ Handles log analysis and security event correlation
 Offers intrusion detection capabilities
 ### <ins> Team Member Responsibilities </ins>
 ### 1.Vaishnavi:
-Set up OpenVAS vulnerability scanner
-Configured the gateway with dual network adapters
+* Set up OpenVAS vulnerability scanner
+* Configured the gateway with dual network adapters
 ### 2.Sami:
-Set up Ubuntu Desktop client
-Configured client-side testing tools
+* Set up Ubuntu Desktop client
+* Configured client-side testing tools (openvas)
 ### 3.Akshay:
-Prepared and delivered project presentation
-Coordinated demonstration of security assessment workflow
+* Prepared and delivered project presentation
+* Coordinated demonstration of security assessment workflow
 ### 4.Vaishnavi:
-Set up Wazuh SIEM platform
-Created project documentation on GitHub
+* Set up Wazuh platform
+* Created project documentation on GitHub
 ### <ins> Network Configuration Details </ins>
 The gateway machine serves as the cornerstone of this security assessment environment with its dual-adapter configuration:
 Bridge Adapter: This provides the internal network with a direct connection to the physical network, enabling physical network resources to be accessible to the assessment environment.
