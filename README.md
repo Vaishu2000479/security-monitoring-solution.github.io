@@ -1,7 +1,6 @@
 # security-monitoring-solution.github.io
 
-
-## Network Overview
+<ins> ## Network Overview </ins>
 Your security assessment environment consists of four key machines, each with specific roles and IP addresses within the 192.168.113.0/24 subnet:
 ### Gateway (192.168.113.1/24)
 Serves as the network gateway for all other machines
