@@ -24,16 +24,16 @@ Provides real-time monitoring and threat detection
 Handles log analysis and security event correlation
 Offers intrusion detection capabilities
 ### Team Member Responsibilities
-1.Vaishnavi:
+# 1.Vaishnavi:
 Set up OpenVAS vulnerability scanner
 Configured the gateway with dual network adapters
-2.Sami:
+# 2.Sami:
 Set up Ubuntu Desktop client
 Configured client-side testing tools
-3.Akshay:
+# 3.Akshay:
 Prepared and delivered project presentation
 Coordinated demonstration of security assessment workflow
-4.Vaishnavi:
+# 4.Vaishnavi:
 Set up Wazuh SIEM platform
 Created project documentation on GitHub
 ### Network Configuration Details
