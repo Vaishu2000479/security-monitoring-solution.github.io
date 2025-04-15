@@ -48,6 +48,6 @@ Websites are hosted as vaishu2000479.github.io or custom domains.
 ## <ins> </ins> 
 ## <ins> Network Configuration Details </ins>
 The gateway machine serves as the cornerstone of this security assessment environment with its dual-adapter configuration:
-Bridge Adapter: This provides the internal network with a direct connection to the physical network, enabling physical network resources to be accessible to the assessment environment.
-NAT Adapter: The Network Address Translation adapter allows all internal machines (OpenVAS, Wazuh, Ubuntu Desktop) to access internet resources while maintaining network isolation for security purposes.
-This configuration creates an isolated but fully functional security assessment lab where vulnerabilities can be detected (OpenVAS), security events can be monitored (Wazuh), and testing can be performed (Ubuntu Desktop), all while maintaining proper network segmentation through the gateway.
+* Bridge Adapter: This provides the internal network with a direct connection to the physical network, enabling physical network resources to be accessible to the assessment environment.
+* NAT Adapter: The Network Address Translation adapter allows all internal machines (OpenVAS, Wazuh, Ubuntu Desktop) to access internet resources while maintaining network isolation for security purposes.
+* This configuration creates an isolated but fully functional security assessment lab where vulnerabilities can be detected (OpenVAS), security events can be monitored (Wazuh), and testing can be performed (Ubuntu Desktop), all while maintaining proper network segmentation through the gateway.
