@@ -18,12 +18,18 @@ Provides automated security scanning capabilities
 Used to identify potential vulnerabilities in the network and systems
 Generates detailed reports of security issues found
 ### <ins> Wazuh (192.168.113.4/24) </ins>
-Security Information and Event Management (SIEM) platform
+Wazuh is a security monitoring and the threat detection, identify, monitor, IT infrastructure.
+Security Monitoring: Wazuh collects and analyze logs from different systems and application malicious activites, unauthorized access. 
+Detection: Wazuh can detect potential attacks by analyzing system, network traffic, help organization.
+File Intergrity Monitoring: Critical files and directories for unathorized changes.
+Vulnerability Detction, Allowing organization, patch of vulnerability.
 Provides real-time monitoring and threat detection
-Handles log analysis and security event correlation
-Offers intrusion detection capabilities
-## <ins> Team Member Responsibilities </ins>
-# Vaishnavi:
+## <ins> Team Member Responsibilities </ins> 
+### <ins> Github Page </ins>
+Github Pages is a free hosting service provided by Github that allows you to publish websites directly from your github repositories. 
+Github pages is a static site hosting service that takes HTML, CSS, and JavaScript files directly from a repository on Github.
+Websites are hosted as vaishu2000479.github.io or custom domains.
+### Vaishnavi Bandiwar:
 * Set up OpenVAS vulnerability scanner
 * Configured the gateway with dual network adapters
 ## <ins>  </ins>
@@ -31,7 +37,7 @@ Offers intrusion detection capabilities
 * Set up Ubuntu Desktop client
 * Configured client-side testing tools (openvas)
 ## <ins> </ins> 
-### Akshay:
+### Akshay Nagulkar:
 * Prepared and delivered project presentation
 * Coordinated demonstration of security assessment workflow
 ## <ins> </ins> 
