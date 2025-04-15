@@ -26,15 +26,19 @@ Offers intrusion detection capabilities
 ### Vaishnavi:
 * Set up OpenVAS vulnerability scanner
 * Configured the gateway with dual network adapters
+## <ins>  </ins>
 ### Sami:
 * Set up Ubuntu Desktop client
 * Configured client-side testing tools (openvas)
+## <ins> </ins> 
 ### Akshay:
 * Prepared and delivered project presentation
 * Coordinated demonstration of security assessment workflow
+## <ins> </ins> 
 ### Vaishnavi Thorve:
 * Set up Wazuh platform
 * Created project documentation on GitHub
+## <ins> </ins> 
 ## <ins> Network Configuration Details </ins>
 The gateway machine serves as the cornerstone of this security assessment environment with its dual-adapter configuration:
 Bridge Adapter: This provides the internal network with a direct connection to the physical network, enabling physical network resources to be accessible to the assessment environment.
