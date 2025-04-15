@@ -24,11 +24,12 @@ Detection: Wazuh can detect potential attacks by analyzing system, network traff
 File Intergrity Monitoring: Critical files and directories for unathorized changes.
 Vulnerability Detction, Allowing organization, patch of vulnerability.
 Provides real-time monitoring and threat detection
-## <ins> Team Member Responsibilities </ins> 
+
 ### <ins> Github Page </ins>
 Github Pages is a free hosting service provided by Github that allows you to publish websites directly from your github repositories. 
 Github pages is a static site hosting service that takes HTML, CSS, and JavaScript files directly from a repository on Github.
 Websites are hosted as vaishu2000479.github.io or custom domains.
+### <ins> Team Member Responsibilites </ins>
 ### Vaishnavi Bandiwar:
 * Set up OpenVAS vulnerability scanner
 * Configured the gateway with dual network adapters
