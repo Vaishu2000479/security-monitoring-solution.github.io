@@ -23,7 +23,7 @@ Provides real-time monitoring and threat detection
 Handles log analysis and security event correlation
 Offers intrusion detection capabilities
 ## <ins> Team Member Responsibilities </ins>
-### Vaishnavi:
+# Vaishnavi:
 * Set up OpenVAS vulnerability scanner
 * Configured the gateway with dual network adapters
 ## <ins>  </ins>
