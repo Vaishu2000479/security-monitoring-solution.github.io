@@ -9,15 +9,18 @@ Serves as the network gateway for all other machines
 * Bridge adapter: Provides direct access to the physical network
 * NAT adapter: Enables internet access for all internal machines while maintaining isolation
 Acts as the central connection point, with confirmed connectivity to all three other machines
+
 ### <ins> Ubuntu Desktop (192.168.113.2/24) </ins>
 * Client machine for testing and monitoring
 * Used for conducting security assessments and analysis
 * Connected through the gateway for both internal and external access
+  
 ### <ins> OpenVAS (192.168.113.3/24) </ins>
 * Vulnerability Assessment Scanner
 * Provides automated security scanning capabilities
 * Used to identify potential vulnerabilities in the network and systems
 * Generates detailed reports of security issues found
+  
 ### <ins> Wazuh (192.168.113.4/24) </ins>
 Wazuh is a security monitoring and the threat detection, identify, monitor, IT infrastructure.
 * Security Monitoring: Wazuh collects and analyze logs from different systems and application malicious activites, unauthorized access. 
